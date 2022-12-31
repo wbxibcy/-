@@ -20,7 +20,7 @@ python picture.py
 在`cmd`中
 
 1. ```shell
-   start env.bat
+   conda create -n lsp beautifulsoup4 lxml requests python=3.9 -y
    ```
 
 2. ```shell
@@ -33,4 +33,4 @@ python picture.py
 
 ### 注意
 
-为了脚本运行顺利，建议不要科学上网
+为了环境配置顺利，建议不要科学上网
