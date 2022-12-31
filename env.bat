@@ -1,0 +1,1 @@
+conda create -n lsp beautifulsoup4 lxml requests python=3.9 -y
